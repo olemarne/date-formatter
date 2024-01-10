@@ -25,3 +25,4 @@ dateOptionsSelectElement.addEventListener("change", () => {
       break;
     default: currentDateParagraph.textContent = formattedDate;
   }
+});
